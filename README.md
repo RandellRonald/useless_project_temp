@@ -36,8 +36,6 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![[(https://drive.google.com/file/d/1iGU9yy4Ae9b-Kxtlsb1bckvPphvwN1AU/view?usp=drive_link)]](SCREENSHOT OF HOMEPAGE)
-
 
 ![https://drive.google.com/file/d/1iGU9yy4Ae9b-Kxtlsb1bckvPphvwN1AU/view?usp=sharing](ELEMENTS)
 
