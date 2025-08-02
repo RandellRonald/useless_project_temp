@@ -12,7 +12,7 @@
 - Member 2: [Shreya Sajalan] - Albertian Institute Of Science And Technology
 
 ### Project Description
-StellarDeed aims to revolutionize the concept of land ownership by enabling individuals to register land parcels on various planets. This futuristic initiative merges technology and space exploration to create a comprehensive and legally recognized planetary land registry
+SpaceOnSale aims to revolutionize the concept of land ownership by enabling individuals to register land parcels on various planets. This futuristic initiative merges technology and space exploration to create a comprehensive and legally recognized planetary land registry
 
 ### The Problem (that doesn't exist)
 Extreme wish to buy land in space??? Here we are!!
